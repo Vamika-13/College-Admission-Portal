@@ -1,0 +1,2 @@
+# College Admission Portal 
+The objective of the project is to develop a Python-based system for the College Admission Department to efficiently manage newly admitted students and streamline their school allocation process. By automating data entry, GPA calculation, and school assignment based on predefined criteria, the program enhances accuracy and reduces manual effort. Additionally, it ensures secure access through password authentication and generates comprehensive reports, supporting informed decision-making.
